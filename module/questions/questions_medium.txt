@@ -1,0 +1,89 @@
+Category: History
+Difficulty: Medium
+Question: In which year did Christopher Columbus discover America?
+A: 1492
+B: 1620
+C: 1776
+D: 1812
+Correct: A
+
+Category: Science
+Difficulty: Medium
+Question: What is the chemical symbol for gold?
+A: Au
+B: Ag
+C: Fe
+D: Hg
+Correct: A
+
+Category: Geography
+Difficulty: Medium
+Question: Which river is the longest in the world?
+A: Nile
+B: Amazon
+C: Yangtze
+D: Mississippi
+Correct: A
+
+Category: Movies
+Difficulty: Medium
+Question: Who directed the film "Schindler's List"?
+A: Quentin Tarantino
+B: Martin Scorsese
+C: Steven Spielberg
+D: Christopher Nolan
+Correct: C
+
+Category: Literature
+Difficulty: Medium
+Question: Who wrote the novel "1984"?
+A: George Orwell
+B: Aldous Huxley
+C: F. Scott Fitzgerald
+D: Ernest Hemingway
+Correct: A
+
+Category: Sports
+Difficulty: Medium
+Question: In which country were the first modern Olympic Games held?
+A: Greece
+B: France
+C: United States
+D: Italy
+Correct: A
+
+Category: Music
+Difficulty: Medium
+Question: Which rock band released the album "The Wall"?
+A: Pink Floyd
+B: The Rolling Stones
+C: The Who
+D: Led Zeppelin
+Correct: A
+
+Category: General Knowledge
+Difficulty: Medium
+Question: What is the largest planet in our solar system?
+A: Earth
+B: Venus
+C: Jupiter
+D: Mars
+Correct: C
+
+Category: Technology
+Difficulty: Medium
+Question: Who is the co-founder of Apple Inc. alongside Steve Jobs?
+A: Tim Cook
+B: Steve Wozniak
+C: Bill Gates
+D: Larry Page
+Correct: B
+
+Category: Food
+Difficulty: Medium
+Question: Which country is known for inventing pizza?
+A: Italy
+B: Greece
+C: Spain
+D: France
+Correct: A

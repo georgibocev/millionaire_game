@@ -1,0 +1,89 @@
+Category: General Knowledge
+Difficulty: Easy
+Question: What is the capital of France?
+A: Berlin
+B: Rome
+C: Paris
+D: Madrid
+Correct: C
+
+Category: Science
+Difficulty: Easy
+Question: What is the chemical symbol for water?
+A: O2
+B: H2O
+C: CO2
+D: N2
+Correct: B
+
+Category: Geography
+Difficulty: Easy
+Question: Which continent is known as the Land Down Under?
+A: Europe
+B: Asia
+C: Australia
+D: Africa
+Correct: C
+
+Category: History
+Difficulty: Easy
+Question: Who was the first President of the United States?
+A: Abraham Lincoln
+B: Thomas Jefferson
+C: George Washington
+D: Benjamin Franklin
+Correct: C
+
+Category: Sports
+Difficulty: Easy
+Question: Which sport is played at Wimbledon?
+A: Soccer
+B: Tennis
+C: Golf
+D: Basketball
+Correct: B
+
+Category: Movies
+Difficulty: Easy
+Question: Who played the role of Harry Potter in the film series?
+A: Daniel Craig
+B: Rupert Grint
+C: Tom Felton
+D: Daniel Radcliffe
+Correct: D
+
+Category: Music
+Difficulty: Easy
+Question: Which band is known for the song "Bohemian Rhapsody"?
+A: The Rolling Stones
+B: The Beatles
+C: Queen
+D: Led Zeppelin
+Correct: C
+
+Category: Literature
+Difficulty: Easy
+Question: Who wrote the novel "To Kill a Mockingbird"?
+A: J.K. Rowling
+B: George Orwell
+C: Harper Lee
+D: Mark Twain
+Correct: C
+
+Category: Food
+Difficulty: Easy
+Question: What is the primary ingredient in guacamole?
+A: Tomatoes
+B: Onions
+C: Avocado
+D: Potatoes
+Correct: C
+
+Category: Technology
+Difficulty: Easy
+Question: Who co-founded Microsoft alongside Bill Gates?
+A: Steve Jobs
+B: Jeff Bezos
+C: Elon Musk
+D: Paul Allen
+Correct: D

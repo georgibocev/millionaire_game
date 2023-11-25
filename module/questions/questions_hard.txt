@@ -1,0 +1,89 @@
+Category: Science
+Difficulty: Hard
+Question: What is the chemical symbol for mercury?
+A: Me
+B: Hg
+C: Ma
+D: Mr
+Correct: B
+
+Category: History
+Difficulty: Hard
+Question: Who was the first Emperor of the Roman Empire?
+A: Julius Caesar
+B: Augustus
+C: Nero
+D: Caligula
+Correct: B
+
+Category: Geography
+Difficulty: Hard
+Question: Which mountain is the highest in the world above sea level?
+A: Mount Everest
+B: K2
+C: Mount Kilimanjaro
+D: Mount McKinley
+Correct: A
+
+Category: Literature
+Difficulty: Hard
+Question: Who wrote the epic poem "The Iliad"?
+A: Virgil
+B: Homer
+C: Ovid
+D: Aesop
+Correct: B
+
+Category: Sports
+Difficulty: Hard
+Question: Which country won the FIFA World Cup in 2018?
+A: Brazil
+B: Germany
+C: Argentina
+D: France
+Correct: D
+
+Category: Movies
+Difficulty: Hard
+Question: Who directed the film "The Godfather"?
+A: Quentin Tarantino
+B: Martin Scorsese
+C: Francis Ford Coppola
+D: Alfred Hitchcock
+Correct: C
+
+Category: Music
+Difficulty: Hard
+Question: Which composer is famous for his "Symphony No. 9"?
+A: Ludwig van Beethoven
+B: Wolfgang Amadeus Mozart
+C: Johann Sebastian Bach
+D: Pyotr Ilyich Tchaikovsky
+Correct: A
+
+Category: General Knowledge
+Difficulty: Hard
+Question: What is the chemical symbol for silver?
+A: Ag
+B: Si
+C: Sn
+D: Sg
+Correct: A
+
+Category: Technology
+Difficulty: Hard
+Question: Who co-founded the social media platform Facebook?
+A: Mark Zuckerberg
+B: Jeff Bezos
+C: Larry Page
+D: Elon Musk
+Correct: A
+
+Category: Food
+Difficulty: Hard
+Question: Which cheese is known as the "King of Cheeses"?
+A: Cheddar
+B: Gouda
+C: Roquefort
+D: Parmigiano-Reggiano
+Correct: D

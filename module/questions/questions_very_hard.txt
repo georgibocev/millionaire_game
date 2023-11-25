@@ -1,0 +1,89 @@
+Category: Science
+Difficulty: Very Hard
+Question: What is the chemical symbol for potassium?
+A: K
+B: Po
+C: Pt
+D: Kr
+Correct: A
+
+Category: History
+Difficulty: Very Hard
+Question: Who was the first President of the United States of America under the Articles of Confederation?
+A: George Washington
+B: John Adams
+C: Thomas Jefferson
+D: John Hanson
+Correct: D
+
+Category: Geography
+Difficulty: Very Hard
+Question: Which country has the largest coastline in the world?
+A: Canada
+B: Russia
+C: China
+D: Australia
+Correct: A
+
+Category: Literature
+Difficulty: Very Hard
+Question: Who wrote the novel "One Hundred Years of Solitude"?
+A: Gabriel Garcia Marquez
+B: Jorge Luis Borges
+C: Pablo Neruda
+D: Julio Cortazar
+Correct: A
+
+Category: Sports
+Difficulty: Very Hard
+Question: In which year did the first modern Olympic Games take place?
+A: 1886
+B: 1896
+C: 1906
+D: 1916
+Correct: B
+
+Category: Movies
+Difficulty: Very Hard
+Question: Who directed the film "2001 A Space Odyssey"?
+A: Steven Spielberg
+B: George Lucas
+C: Stanley Kubrick
+D: Christopher Nolan
+Correct: C
+
+Category: Music
+Difficulty: Very Hard
+Question: Who composed the opera "The Marriage of Figaro"?
+A: Richard Wagner
+B: Wolfgang Amadeus Mozart
+C: Giuseppe Verdi
+D: Pyotr Ilyich Tchaikovsky
+Correct: B
+
+Category: General Knowledge
+Difficulty: Very Hard
+Question: What is the chemical symbol for lead?
+A: Ld
+B: Le
+C: Lp
+D: Pb
+Correct: D
+
+Category: Technology
+Difficulty: Very Hard
+Question: Who is often referred to as the "father of the computer"?
+A: Steve Jobs
+B: Alan Turing
+C: Bill Gates
+D: Tim Berners-Lee
+Correct: B
+
+Category: Food
+Difficulty: Very Hard
+Question: What is the primary ingredient in traditional Japanese miso soup?
+A: Tofu
+B: Seaweed
+C: Soybeans
+D: Noodles
+Correct: C
