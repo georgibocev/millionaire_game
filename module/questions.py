@@ -10,7 +10,7 @@ class QuestionGenerator:
 
     def load_question(self, difficulty):
 
-        questions_directory = "questions"
+        questions_directory = "module/questions"
         file_name = f"questions_{difficulty.lower()}.json"
         file_path = os.path.join(questions_directory, file_name)
 
@@ -21,11 +21,13 @@ class QuestionGenerator:
                 available_questions = [q for q in question_data if q["Question"] not in self.used_questions]
 
                 if available_questions:
+                    random.shuffle(available_questions)
                     selected_question = random.choice(available_questions)
                     self.used_questions.add(selected_question["Question"])
                     return selected_question
                 else:
-                    return None  # if no questions found for difficulty
+                    print(f"Error: No available questions found.")
+                    sys.exit(1)
         except FileNotFoundError:
             print(f"Error: File not found - {file_path}")
             sys.exit(1)

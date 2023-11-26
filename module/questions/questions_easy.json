@@ -1,72 +1,123 @@
 [
   {
-    "Category": "General Knowledge",
     "Difficulty": "Easy",
     "Question": "What is the capital of France?",
     "Options": ["Berlin", "Rome", "Paris", "Madrid"],
     "Correct": "C"
   },
   {
-    "Category": "Science",
     "Difficulty": "Easy",
     "Question": "What is the chemical symbol for water?",
     "Options": ["O2", "H2O", "CO2", "N2"],
     "Correct": "B"
   },
   {
-    "Category": "Geography",
     "Difficulty": "Easy",
     "Question": "Which continent is known as the Land Down Under?",
     "Options": ["Europe", "Asia", "Australia", "Africa"],
     "Correct": "C"
   },
   {
-    "Category": "History",
     "Difficulty": "Easy",
     "Question": "Who was the first President of the United States?",
     "Options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
     "Correct": "C"
   },
   {
-    "Category": "Sports",
     "Difficulty": "Easy",
     "Question": "Which sport is played at Wimbledon?",
     "Options": ["Soccer", "Tennis", "Golf", "Basketball"],
     "Correct": "B"
   },
   {
-    "Category": "Movies",
     "Difficulty": "Easy",
     "Question": "Who played the role of Harry Potter in the film series?",
     "Options": ["Daniel Craig", "Rupert Grint", "Tom Felton", "Daniel Radcliffe"],
     "Correct": "D"
   },
   {
-    "Category": "Music",
     "Difficulty": "Easy",
     "Question": "Which band is known for the song 'Bohemian Rhapsody'?",
     "Options": ["The Rolling Stones", "The Beatles", "Queen", "Led Zeppelin"],
     "Correct": "C"
   },
   {
-    "Category": "Literature",
     "Difficulty": "Easy",
     "Question": "Who wrote the novel 'To Kill a Mockingbird'?",
     "Options": ["J.K. Rowling", "George Orwell", "Harper Lee", "Mark Twain"],
     "Correct": "C"
   },
   {
-    "Category": "Food",
     "Difficulty": "Easy",
     "Question": "What is the primary ingredient in guacamole?",
     "Options": ["Tomatoes", "Onions", "Avocado", "Potatoes"],
     "Correct": "C"
   },
   {
-    "Category": "Technology",
     "Difficulty": "Easy",
     "Question": "Who co-founded Microsoft alongside Bill Gates?",
     "Options": ["Steve Jobs", "Jeff Bezos", "Elon Musk", "Paul Allen"],
     "Correct": "D"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "Which planet is known as the Red Planet?",
+    "Options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "Correct": "B"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "What is the largest mammal in the world?",
+    "Options": ["Elephant", "Blue Whale", "Giraffe", "Lion"],
+    "Correct": "B"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "In which year did the Titanic sink?",
+    "Options": ["1912", "1920", "1935", "1941"],
+    "Correct": "A"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "Who wrote the play 'Romeo and Juliet'?",
+    "Options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Emily Brontë"],
+    "Correct": "A"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "What is the capital of Japan?",
+    "Options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+    "Correct": "C"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "Which element has the chemical symbol 'O'?",
+    "Options": ["Oxygen", "Gold", "Silver", "Carbon"],
+    "Correct": "A"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "Who painted the Mona Lisa?",
+    "Options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "Correct": "C"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "What is the main ingredient in sushi?",
+    "Options": ["Rice", "Noodles", "Seaweed", "Tofu"],
+    "Correct": "A"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "Which mountain is known as the 'Roof of the World'?",
+    "Options": ["Mount Kilimanjaro", "Mount Everest", "Mount Fuji", "Mount McKinley"],
+    "Correct": "B"
+  },
+  {
+    "Difficulty": "Easy",
+    "Question": "Who wrote the play 'Hamlet'?",
+    "Options": ["Jane Austen", "Charles Dickens", "William Shakespeare", "Emily Brontë"],
+    "Correct": "C"
   }
 ]
+

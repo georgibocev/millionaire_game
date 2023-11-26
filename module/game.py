@@ -46,8 +46,7 @@ class Game:
         if joker_name in self.jokers:
             joker = self.jokers[joker_name]
             if not joker.used:
-                result = joker.use(self)
-                joker.used = True
+                result = joker.use(self.current_question)
                 return result
         return None
 

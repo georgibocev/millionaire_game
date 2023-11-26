@@ -1,72 +1,122 @@
 [
   {
-    "Category": "Science",
     "Difficulty": "Hard",
     "Question": "What is the chemical symbol for mercury?",
     "Options": ["Me", "Hg", "Ma", "Mr"],
     "Correct": "B"
   },
   {
-    "Category": "History",
     "Difficulty": "Hard",
     "Question": "Who was the first Emperor of the Roman Empire?",
     "Options": ["Julius Caesar", "Augustus", "Nero", "Caligula"],
     "Correct": "B"
   },
   {
-    "Category": "Geography",
     "Difficulty": "Hard",
     "Question": "Which mountain is the highest in the world above sea level?",
     "Options": ["Mount Everest", "K2", "Mount Kilimanjaro", "Mount McKinley"],
     "Correct": "A"
   },
   {
-    "Category": "Literature",
     "Difficulty": "Hard",
     "Question": "Who wrote the epic poem 'The Iliad'?",
     "Options": ["Virgil", "Homer", "Ovid", "Aesop"],
     "Correct": "B"
   },
   {
-    "Category": "Sports",
     "Difficulty": "Hard",
     "Question": "Which country won the FIFA World Cup in 2018?",
     "Options": ["Brazil", "Germany", "Argentina", "France"],
     "Correct": "D"
   },
   {
-    "Category": "Movies",
     "Difficulty": "Hard",
     "Question": "Who directed the film 'The Godfather'?",
     "Options": ["Quentin Tarantino", "Martin Scorsese", "Francis Ford Coppola", "Alfred Hitchcock"],
     "Correct": "C"
   },
   {
-    "Category": "Music",
     "Difficulty": "Hard",
     "Question": "Which composer is famous for his 'Symphony No. 9'?",
     "Options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Pyotr Ilyich Tchaikovsky"],
     "Correct": "A"
   },
   {
-    "Category": "General Knowledge",
     "Difficulty": "Hard",
     "Question": "What is the chemical symbol for silver?",
     "Options": ["Ag", "Si", "Sn", "Sg"],
     "Correct": "A"
   },
   {
-    "Category": "Technology",
     "Difficulty": "Hard",
     "Question": "Who co-founded the social media platform Facebook?",
     "Options": ["Mark Zuckerberg", "Jeff Bezos", "Larry Page", "Elon Musk"],
     "Correct": "A"
   },
   {
-    "Category": "Food",
     "Difficulty": "Hard",
     "Question": "Which cheese is known as the 'King of Cheeses'?",
     "Options": ["Cheddar", "Gouda", "Roquefort", "Parmigiano-Reggiano"],
     "Correct": "D"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "What is the chemical symbol for uranium?",
+    "Options": ["Ur", "U", "Un", "Up"],
+    "Correct": "B"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "In which year did the American Civil War begin?",
+    "Options": ["1861", "1875", "1890", "1902"],
+    "Correct": "A"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "Which river is often referred to as the 'River of Sorrows'?",
+    "Options": ["Danube", "Nile", "Yellow River", "Mississippi"],
+    "Correct": "C"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "Who wrote the play 'Romeo and Juliet'?",
+    "Options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+    "Correct": "A"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "Which country is known as the 'Land of the Rising Sun'?",
+    "Options": ["China", "South Korea", "Japan", "Vietnam"],
+    "Correct": "C"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "Who won the Nobel Prize in Physics for the discovery of the neutron?",
+    "Options": ["Marie Curie", "Albert Einstein", "Ernest Rutherford", "James Chadwick"],
+    "Correct": "D"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "Which famous artist painted the 'Mona Lisa'?",
+    "Options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "Correct": "B"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "What is the capital city of Australia?",
+    "Options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "Correct": "C"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "Who is the author of the science fiction novel 'Dune'?",
+    "Options": ["Isaac Asimov", "Arthur C. Clarke", "Philip K. Dick", "Frank Herbert"],
+    "Correct": "D"
+  },
+  {
+    "Difficulty": "Hard",
+    "Question": "What is the primary ingredient in the traditional Japanese dish 'Sushi'?",
+    "Options": ["Rice", "Seaweed", "Fish", "Noodles"],
+    "Correct": "A"
   }
 ]
