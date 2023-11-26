@@ -1,6 +1,6 @@
-import config
-from jokers import Joker50_50, JokerCallAFriend, JokerAskThePublic
-from questions import QuestionGenerator
+import module.config as config
+from module.jokers import Joker50_50, JokerCallAFriend, JokerAskThePublic
+from module.questions import QuestionGenerator
 
 
 class Game:

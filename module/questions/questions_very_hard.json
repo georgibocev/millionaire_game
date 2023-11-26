@@ -1,0 +1,72 @@
+[
+  {
+    "Category": "Science",
+    "Difficulty": "Very Hard",
+    "Question": "What is the chemical symbol for potassium?",
+    "Options": ["K", "Po", "Pt", "Kr"],
+    "Correct": "A"
+  },
+  {
+    "Category": "History",
+    "Difficulty": "Very Hard",
+    "Question": "Who was the first President of the United States of America under the Articles of Confederation?",
+    "Options": ["George Washington", "John Adams", "Thomas Jefferson", "John Hanson"],
+    "Correct": "D"
+  },
+  {
+    "Category": "Geography",
+    "Difficulty": "Very Hard",
+    "Question": "Which country has the largest coastline in the world?",
+    "Options": ["Canada", "Russia", "China", "Australia"],
+    "Correct": "A"
+  },
+  {
+    "Category": "Literature",
+    "Difficulty": "Very Hard",
+    "Question": "Who wrote the novel 'One Hundred Years of Solitude'?",
+    "Options": ["Gabriel Garcia Marquez", "Jorge Luis Borges", "Pablo Neruda", "Julio Cortazar"],
+    "Correct": "A"
+  },
+  {
+    "Category": "Sports",
+    "Difficulty": "Very Hard",
+    "Question": "In which year did the first modern Olympic Games take place?",
+    "Options": ["1886", "1896", "1906", "1916"],
+    "Correct": "B"
+  },
+  {
+    "Category": "Movies",
+    "Difficulty": "Very Hard",
+    "Question": "Who directed the film '2001 A Space Odyssey'?",
+    "Options": ["Steven Spielberg", "George Lucas", "Stanley Kubrick", "Christopher Nolan"],
+    "Correct": "C"
+  },
+  {
+    "Category": "Music",
+    "Difficulty": "Very Hard",
+    "Question": "Who composed the opera 'The Marriage of Figaro'?",
+    "Options": ["Richard Wagner", "Wolfgang Amadeus Mozart", "Giuseppe Verdi", "Pyotr Ilyich Tchaikovsky"],
+    "Correct": "B"
+  },
+  {
+    "Category": "General Knowledge",
+    "Difficulty": "Very Hard",
+    "Question": "What is the chemical symbol for lead?",
+    "Options": ["Ld", "Le", "Lp", "Pb"],
+    "Correct": "D"
+  },
+  {
+    "Category": "Technology",
+    "Difficulty": "Very Hard",
+    "Question": "Who is often referred to as the 'father of the computer'?",
+    "Options": ["Steve Jobs", "Alan Turing", "Bill Gates", "Tim Berners-Lee"],
+    "Correct": "B"
+  },
+  {
+    "Category": "Food",
+    "Difficulty": "Very Hard",
+    "Question": "What is the primary ingredient in traditional Japanese miso soup?",
+    "Options": ["Tofu", "Seaweed", "Soybeans", "Noodles"],
+    "Correct": "C"
+  }
+]

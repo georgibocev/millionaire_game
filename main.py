@@ -1,5 +1,5 @@
 import tkinter as tk
-from millionaire_gui import MillionaireGUI
+from module.millionaire_gui import MillionaireGUI
 
 
 def main():

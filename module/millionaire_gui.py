@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
-import config
-from game import Game
+import module.config as config
+from module.game import Game
 
 
 class MillionaireGUI:
