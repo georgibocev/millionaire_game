@@ -40,5 +40,5 @@ As the player successfully answers questions, the difficulty level increases. Th
 6. Game Restart or Exit
 The game continues until the player either reaches the maximum score, exhausts all questions, or decides to exit. In the case of game over, the player may choose to restart the game, initiating a new round with the initial settings.
 
-#Testing
+# Testing
 All modules are tested with a comprehensive test suite to achieve high code coverage.
