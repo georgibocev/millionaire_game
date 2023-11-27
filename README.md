@@ -4,12 +4,12 @@ There are 3 available jokers:
 - 50/50, which removes two incorrect answers
 - Ask A Friend (which for simplicity for the time being just gives the correct answer)
 - Ask The Public (which for simplicity also gives the correct answer, but creates a poll to simulate a voting public)
-- 
+  
 # Requirements
 This programm is run using [python3](https://www.python.org/).  
-The following modules are used as dependencies: tkinter
+The following modules are used as dependencies: tkinter.
 
-#Usage
+# Usage
 To play "Who Wants To Become A Millionaire" navigate to the project directory (ensure you have Python installed) and run the following command:
 ```
 python main.py 
