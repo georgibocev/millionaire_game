@@ -5,12 +5,34 @@ import sys
 
 
 class QuestionGenerator:
+    """
+    Generates questions from a JSON file.
+
+    Attributes:
+    - used_questions (set): A set to keep track of already generated questions to avoid repetition.
+
+    Methods:
+    - __init__: Initializes the QuestionGenerator with an empty set for used questions.
+    - load_question: Loads a question based on the given difficulty.
+
+    """
     def __init__(self):
+        """
+        Initialize a set to keep track of the already generated questions in order to avoid repetition.
+        """
         self.used_questions = set()
 
     def load_question(self, difficulty):
+        """
+        Loads a question based on a given difficulty.
 
-        questions_directory = "module/questions"
+        Args:
+        - difficulty (str): The difficulty level for the question.
+
+        Returns:
+        - dict: The loaded question data.
+        """
+        questions_directory = os.path.abspath("questions/")
         file_name = f"questions_{difficulty.lower()}.json"
         file_path = os.path.join(questions_directory, file_name)
 
