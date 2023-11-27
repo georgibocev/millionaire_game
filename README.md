@@ -2,8 +2,8 @@
 This program provides a Python GUI implementation of the famous "Who Wants To Become A Millionaire" Game. The user can choose an answer between four options, only one of which is correct. 
 There are 3 available jokers:
 - 50/50, which removes two incorrect answers
-- Ask A Friend (which for simplicity for the time being just gives the correct answer)
-- Ask The Public (which for simplicity also gives the correct answer, but creates a poll to simulate a voting public)
+- Ask A Friend (which for simplicity for the time being just gives the correct answer).
+- Ask The Public (which for simplicity also gives the correct answer, but creates a poll to simulate a voting public).
 If the user chooses a wrong answer the game ends and an option to play again will appear.
 There is a scoring system for every answer given by the player (more difficult answers give more points) and once the score reaches 100.000 the user has won the game.
 
