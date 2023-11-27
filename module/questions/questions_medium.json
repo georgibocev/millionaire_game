@@ -3,121 +3,121 @@
     "Difficulty": "Medium",
     "Question": "In which year did Christopher Columbus discover America?",
     "Options": ["1492", "1620", "1776", "1812"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "What is the chemical symbol for gold?",
     "Options": ["Au", "Ag", "Fe", "Hg"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "Which river is the longest in the world?",
     "Options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "Who directed the film 'Schindler's List'?",
     "Options": ["Quentin Tarantino", "Martin Scorsese", "Steven Spielberg", "Christopher Nolan"],
-    "Correct": "C"
+    "Correct": "2"
   },
   {
     "Difficulty": "Medium",
     "Question": "Who wrote the novel '1984'?",
     "Options": ["George Orwell", "Aldous Huxley", "F. Scott Fitzgerald", "Ernest Hemingway"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "In which country were the first modern Olympic Games held?",
     "Options": ["Greece", "France", "United States", "Italy"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "Which rock band released the album 'The Wall'?",
     "Options": ["Pink Floyd", "The Rolling Stones", "The Who", "Led Zeppelin"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "What is the largest planet in our solar system?",
     "Options": ["Earth", "Venus", "Jupiter", "Mars"],
-    "Correct": "C"
+    "Correct": "2"
   },
   {
     "Difficulty": "Medium",
     "Question": "Who is the co-founder of Apple Inc. alongside Steve Jobs?",
     "Options": ["Tim Cook", "Steve Wozniak", "Bill Gates", "Larry Page"],
-    "Correct": "B"
+    "Correct": "1"
   },
   {
     "Difficulty": "Medium",
     "Question": "Which country is known for inventing pizza?",
     "Options": ["Italy", "Greece", "Spain", "France"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "Who was the first Emperor of China?",
     "Options": ["Qin Shi Huang", "Han Wudi", "Emperor Wu", "Yongle Emperor"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "What is the chemical symbol for silver?",
     "Options": ["Ag", "Au", "Fe", "Cu"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "Which desert is the largest in the world?",
     "Options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Karakum Desert"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "Who played the lead role in the film 'Forrest Gump'?",
     "Options": ["Tom Hanks", "Leonardo DiCaprio", "Brad Pitt", "Johnny Depp"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "Which novel features the character Sherlock Holmes?",
     "Options": ["Pride and Prejudice", "Wuthering Heights", "Crime and Punishment", "The Hound of the Baskervilles"],
-    "Correct": "D"
+    "Correct": "3"
   },
   {
     "Difficulty": "Medium",
     "Question": "In which year did the first Super Bowl take place?",
     "Options": ["1967", "1975", "1982", "1990"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "Who is known as the 'Queen of Pop'?",
-    "Options": ["Madonna", "Beyoncé", "Lady Gaga", "Taylor Swift"],
-    "Correct": "A"
+    "Options": ["Madonna", "Beyonce", "Lady Gaga", "Taylor Swift"],
+    "Correct": "0"
   },
   {
     "Difficulty": "Medium",
     "Question": "What is the currency of Japan?",
     "Options": ["Yuan", "Won", "Yen", "Ringgit"],
-    "Correct": "C"
+    "Correct": "2"
   },
   {
     "Difficulty": "Medium",
     "Question": "Which programming language was created by Guido van Rossum?",
     "Options": ["Java", "C++", "Python", "Ruby"],
-    "Correct": "C"
+    "Correct": "2"
   },
   {
     "Difficulty": "Medium",
     "Question": "What is the main ingredient in the dish paella?",
     "Options": ["Rice", "Pasta", "Potatoes", "Quinoa"],
-    "Correct": "A"
+    "Correct": "0"
   }
 ]
 

@@ -3,120 +3,120 @@
     "Difficulty": "Very Hard",
     "Question": "What is the chemical symbol for potassium?",
     "Options": ["K", "Po", "Pt", "Kr"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Who was the first President of the United States of America under the Articles of Confederation?",
     "Options": ["George Washington", "John Adams", "Thomas Jefferson", "John Hanson"],
-    "Correct": "D"
+    "Correct": "3"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Which country has the largest coastline in the world?",
     "Options": ["Canada", "Russia", "China", "Australia"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Who wrote the novel 'One Hundred Years of Solitude'?",
     "Options": ["Gabriel Garcia Marquez", "Jorge Luis Borges", "Pablo Neruda", "Julio Cortazar"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "In which year did the first modern Olympic Games take place?",
     "Options": ["1886", "1896", "1906", "1916"],
-    "Correct": "B"
+    "Correct": "1"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Who directed the film '2001 A Space Odyssey'?",
     "Options": ["Steven Spielberg", "George Lucas", "Stanley Kubrick", "Christopher Nolan"],
-    "Correct": "C"
+    "Correct": "2"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Who composed the opera 'The Marriage of Figaro'?",
     "Options": ["Richard Wagner", "Wolfgang Amadeus Mozart", "Giuseppe Verdi", "Pyotr Ilyich Tchaikovsky"],
-    "Correct": "B"
+    "Correct": "1"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "What is the chemical symbol for lead?",
     "Options": ["Ld", "Le", "Lp", "Pb"],
-    "Correct": "D"
+    "Correct": "3"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Who is often referred to as the 'father of the computer'?",
     "Options": ["Steve Jobs", "Alan Turing", "Bill Gates", "Tim Berners-Lee"],
-    "Correct": "B"
+    "Correct": "1"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "What is the primary ingredient in traditional Japanese miso soup?",
     "Options": ["Tofu", "Seaweed", "Soybeans", "Noodles"],
-    "Correct": "C"
+    "Correct": "2"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "What is the population of Sofia, the capital city of Bulgaria, as of 2023?",
     "Options": ["1.2 million", "1.8 million", "2.5 million", "3.1 million"],
-    "Correct": "B"
+    "Correct": "1"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Which mountain range runs through Bulgaria?",
     "Options": ["Alps", "Himalayas", "Balkan Mountains", "Andes"],
-    "Correct": "C"
+    "Correct": "2"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "What is the currency of Bulgaria?",
     "Options": ["Euro", "Pound Sterling", "Lev", "Zloty"],
-    "Correct": "C"
+    "Correct": "2"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Which ancient Roman city, known for its well-preserved amphitheater, is located in Bulgaria?",
     "Options": ["Ephesus", "Pompeii", "Nessebar", "Petra"],
-    "Correct": "C"
+    "Correct": "2"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "In which year did Bulgaria join the European Union?",
     "Options": ["2004", "2007", "2010", "2013"],
-    "Correct": "B"
+    "Correct": "1"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "What is the national dish of Bulgaria?",
     "Options": ["Moussaka", "Banitsa", "Sarma", "Kavarma"],
-    "Correct": "B"
+    "Correct": "1"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Which Bulgarian scientist and inventor is best known for the invention of the electronic computer?",
     "Options": ["John Atanasoff", "Nikola Tesla", "Alan Turing", "Charles Babbage"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Bulgaria shares a border with which of the following countries?",
     "Options": ["Norway", "Turkey", "Switzerland", "Ireland"],
-    "Correct": "B"
+    "Correct": "1"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "Which Bulgarian artist is renowned for his murals and works in the field of monumental art?",
     "Options": ["Christo Vladimirov Javacheff", "Pavlin Mavrodiev", "Zlatyu Boyadzhiev", "Vladimir Dimitrov"],
-    "Correct": "A"
+    "Correct": "0"
   },
   {
     "Difficulty": "Very Hard",
     "Question": "What is the name of the ancient Thracian city in Bulgaria, known for its unique rock formations and tombs?",
     "Options": ["Sofia", "Nessebar", "Plovdiv", "Perperikon"],
-    "Correct": "D"
+    "Correct": "3"
   }
 ]
